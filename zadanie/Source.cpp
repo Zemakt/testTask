@@ -61,7 +61,6 @@ int main()
 	{
 		 cout << msg[i];
 	}
-
 	return 0;
 }
 
